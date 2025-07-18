@@ -29,6 +29,11 @@ cd acer-wmi-battery
 make
 ```
 
+### NixOS
+
+See [NIX_INSTALL.md](./NIX_INSTALL.md) for instructions to install
+this kernel module in NixOS.
+
 ## Using
 
 Loading the module without any parameters does not
